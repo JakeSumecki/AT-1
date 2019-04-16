@@ -1,0 +1,9 @@
+﻿  d3dclass.cpp
+c:\users\jake\documents\user hub\3 computer and coding\university\at\task 1\at---1-tut1\engine\engine\d3dclass.h(23): fatal error C1083: Cannot open include file: 'd3dx10math.h': No such file or directory
+  graphicsclass.cpp
+c:\users\jake\documents\user hub\3 computer and coding\university\at\task 1\at---1-tut1\engine\engine\d3dclass.h(23): fatal error C1083: Cannot open include file: 'd3dx10math.h': No such file or directory
+  main.cpp
+c:\users\jake\documents\user hub\3 computer and coding\university\at\task 1\at---1-tut1\engine\engine\d3dclass.h(23): fatal error C1083: Cannot open include file: 'd3dx10math.h': No such file or directory
+  systemclass.cpp
+c:\users\jake\documents\user hub\3 computer and coding\university\at\task 1\at---1-tut1\engine\engine\d3dclass.h(23): fatal error C1083: Cannot open include file: 'd3dx10math.h': No such file or directory
+  Generating Code...
